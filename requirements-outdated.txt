@@ -1,0 +1,4 @@
+Package       Version Latest Type 
+------------- ------- ------ -----
+google-crc32c 0.1.0   1.0.0  wheel
+pip           20.0.2  20.2.2 wheel
